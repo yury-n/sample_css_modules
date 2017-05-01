@@ -1,0 +1,36 @@
+{
+  "name": "sample_css_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-react-transform": "^2.0.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "classnames": "^2.2.5",
+    "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "style-loader": "^0.16.1",
+    "webpack": "^2.4.1"
+  },
+  "scripts": {
+    "start": "webpack --watch --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yury-n/sample_css_modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yury-n/sample_css_modules/issues"
+  },
+  "homepage": "https://github.com/yury-n/sample_css_modules#readme"
+}

@@ -1,0 +1,10 @@
+.menu {
+    width: 100px;
+    margin: 0;
+    background: yellow;
+}
+
+.menu-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #999;
+}

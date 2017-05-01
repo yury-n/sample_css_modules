@@ -1,0 +1,10 @@
+.sidebar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    background: green;
+}
+.sidebar-item {    
+    margin: 50px 0;
+}
